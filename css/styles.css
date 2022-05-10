@@ -1,0 +1,99 @@
+/***************  TAG ******************/
+
+body{
+  background-color: #F9F3EE;
+  width:75%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 55px;
+}
+h2{
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  margin-left: 0px;
+  border-spacing: 1000px;
+}
+
+
+
+
+
+video{
+  width: 100%;
+  margin: 0;
+}
+
+table td{
+  border-spacing: 100px;
+}
+
+table, table:hover, table:active, table:focus{
+  padding-left: 0%;
+  border-left: 1000px;
+}
+
+/*************** CLASS SELECTORS ******************/
+
+.link
+{
+text-decoration: none;
+color: gray;
+text-align: center;
+margin-right: 130px;
+margin-left: 55px;
+}
+
+.img{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left:auto;
+  margin-right:auto;
+  background-color: black;
+}
+
+.header{
+  color: white;
+  background-color: #85586F;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left:auto;
+  margin-right:auto;
+}
+.imga0 {
+  display: inline-block;
+  padding-left: 0px;
+  padding-bottom: 25px;
+  width: 150px;
+}
+
+.imga1 {
+  display: inline-block;
+  padding-left: 450px;
+  padding-bottom: 0px;
+  width: 165px;
+}
+.imga2 {
+  display: inline-block;
+  padding-left: 400px;
+  padding-bottom: 12px;
+    width: 150px;
+}
+
+
+/*************** ID SELECTORS ******************/
+/**
+#linked
+{
+  text-decoration: none;
+  color: white;
+}
+**/
